@@ -13,6 +13,7 @@
 - DataBase: ![](https://img.shields.io/badge/-SQL%20Server-red) 
 - Environment: ![](https://img.shields.io/badge/-MacOS-green)
 ![](https://img.shields.io/badge/-Windows-green)
+![](https://img.shields.io/badge/-Linux-green)
 - Tool: ![](https://img.shields.io/badge/-Git-yellowgreen)
 ![](https://img.shields.io/badge/-Typora-yellowgreen)
 - Software: ![](https://img.shields.io/badge/-Xcode-ff69b4)
